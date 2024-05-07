@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 
 """ method that determines if a given data
@@ -38,4 +37,3 @@ def validUTF8(data):
         return True
 
     return False
-
